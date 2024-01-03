@@ -1,9 +1,21 @@
 import xml.etree.ElementTree as ET
 import datetime
 import json
+import os
+
+# Get the directory of the current script
+script_dir = os.path.dirname(os.path.realpath(__file__))
+
+# Define the relative path to the XML file
+rel_path = "test.xml"
+
+# Join the script directory and the relative path to get the absolute path
+abs_file_path = os.path.join(script_dir, rel_path)
 
 # Parse the XML file
-tree = ET.parse("C:/Users/Benja/dev/dtu/iBeat/bpmExtractor/test.xml")
+tree = ET.parse(abs_file_path)
+# Parse the XML file
+
 root = tree.getroot()
 
 # Get today's date
