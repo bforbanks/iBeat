@@ -24,6 +24,7 @@ for i in range(10):
     with open("beats.csv", "a") as f:
         f.write(
             f"{file.split('-')[1].split('.')[0]};"
+            f"{file.split('-')[0]};"
             + ";".join((np.array(new_beats) * 1000).astype(int).astype(str))
             + "\n"
         )
