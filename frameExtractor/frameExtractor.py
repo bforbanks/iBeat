@@ -3,10 +3,6 @@ import librosa
 import matplotlib.patches as mpatches
 import os
 
-
-i = 0
-end_time = 0
-
 flac_files = [
     f
     for f in os.listdir("C:/Users/Benja/OneDrive/Eksamensprojekt/FixData")
