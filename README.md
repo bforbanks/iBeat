@@ -29,13 +29,11 @@ This paper addresses the challenge of beat detection in music, a crucial first s
         <td>
             <audio controls="controls">
                 <source type="audio/wav" src="audio/wav_1994-967-127000.wav"></source>
-                <p>Your browser does not support the audio element.</p>
             </audio>
         </td>
         <td>
             <audio controls="controls">
                 <source type="audio/wav" src="audio/spect_1994-967-127000.wav"></source>
-                <p>Your browser does not support the audio element.</p>
             </audio>
         </td>
     </tr>
