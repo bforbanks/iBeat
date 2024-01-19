@@ -27,9 +27,7 @@ This paper addresses the challenge of beat detection in music, a crucial first s
     </tr>
     <tr>
         <td>
-            <audio controls="controls">
-                <source type="audio/wav" src="https://github.com/bforbanks/iBeat/blob/master/audio/spect_1994-967-127000.wav"></source>
-            </audio>
+                <a href="https://github.com/bforbanks/iBeat/blob/master/audio/spect_1994-967-127000.wav"></a>
         </td>
         <td>
             <audio controls="controls">
