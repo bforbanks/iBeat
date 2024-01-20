@@ -7,7 +7,7 @@ _By Benjamin Banks(s234802), David Svane(234848) og Lucas Pedersen(s234842)_
 This was made for 3-weeks project for a course a DTU September 2023. 
 
 ## Data and model weights
-As much of our data and our model weight files for the models compared in our report were above the github limit of 25MB it isn't available on git, however, if the data is needed for any purpose, reach out to s234842@dtu.dk.
+As much of our data and our model weight files for the models compared in our report were above the github limit of 25MB, it isn't available on git, however, if it is needed for any purpose, reach out to s234842@dtu.dk.
 
 
 The following is frow our report:
